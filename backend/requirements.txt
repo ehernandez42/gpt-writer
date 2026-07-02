@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pytest
+httpx
+python-multipart
+pypdf
+python-docx
+reportlab
+pytest-asyncio
+anthropic
+sqlite-vec
+sentence-transformers
+numpy
